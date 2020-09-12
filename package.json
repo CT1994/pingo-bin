@@ -1,6 +1,6 @@
 {
   "name": "pingo-bin",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "pingo fast web image optimizer by Cédric Louvrier",
   "main": "index.js",
   "directories": {
