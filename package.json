@@ -1,0 +1,27 @@
+{
+  "name": "pingo-bin",
+  "version": "1.0.0",
+  "description": "pingo fast web image optimizer by Cédric Louvrier",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "postinstall": "node lib/install.js",
+    "test": "echo \"no test\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CT1994/pingo-bin.git"
+  },
+  "author": "Constantinos Tsiakouris",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CT1994/pingo-bin/issues"
+  },
+  "homepage": "https://github.com/CT1994/pingo-bin#readme",
+  "dependencies": {
+    "bin-wrapper": "^4.1.0",
+    "logalot": "^2.1.0"
+  }
+}
